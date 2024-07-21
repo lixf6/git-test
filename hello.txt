@@ -3,3 +3,4 @@ hello git! hot-fix
 hello git! master
 hello git! hot hot
 hello git! hot-fix test
+remote edit test
